@@ -1,6 +1,15 @@
-# Weatherapp
+# Angular Weather App 🌤️
+
+The Angular Weather App is a sleek and interactive application that provides real-time weather updates for any location worldwide. Built using Angular and powered by the RapidAPI Weather API, this app showcases modern web development techniques, delivering accurate and user-friendly weather forecasts.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+
+# Key Features:
+Current Weather Data: Get real-time temperature, humidity, wind speed, and weather conditions.
+Search Functionality: Search for weather updates by city or location.
+Dynamic UI: Responsive and visually appealing design, optimized for all devices.
+API Integration: Leverages RapidAPI's robust weather data for reliable information.
+This project is perfect for learning API integration in Angular while building a practical and engaging web application.
 
 ## Development server
 
